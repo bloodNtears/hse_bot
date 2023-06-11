@@ -1,0 +1,69 @@
+{
+  "upperBody": {
+    "chest":
+      {
+        "Жим штанги лёжа": "https://www.youtube.com/watch?v=WPM5e8Xv69A",
+        "Развод ганетелей на скамье с наклоном": "https://www.youtube.com/watch?v=2maZ-VtpVyU",
+        "Отжимания": "https://www.youtube.com/watch?v=R4uGphXkSiQ"
+      },
+    "biceps":
+      {
+        "Подъём штанги на бицепс": "https://www.youtube.com/watch?v=2VvIzDY4yVI",
+        "Подтягивания обратный хватом": "https://www.youtube.com/watch?v=y6x0AIhgjsM",
+        "Подъём гантелей на бицепс": "https://www.youtube.com/watch?v=2VvIzDY4yVI"
+      },
+    "triceps":
+      {
+        "Разгибание рук на блоке": "https://www.youtube.com/watch?v=RNxRoMP6r4M",
+        "Жим штанги на скамье узким хватом": "https://www.youtube.com/watch?v=q88BGHUlOaU",
+        "Французский жим": "https://www.youtube.com/watch?v=ot0OGphP5KE"
+      },
+    "shoulders":
+      {
+        "Подъём штанги над головой стоя": "https://www.youtube.com/watch?v=yWZGBBZoVXc",
+        "Подъём гантелей сидя": "https://www.youtube.com/watch?v=C0We_bEyxlM",
+        "Подъём на кабельном тренажёре": "https://www.youtube.com/watch?v=tf3PNHeeWCQ"
+      },
+    "back":
+      {
+        "Тяга штанги в наклоне": "https://www.youtube.com/watch?v=tRck-5tE8mU",
+        "Подтягивания": "https://www.youtube.com/watch?v=y6x0AIhgjsM",
+        "Тяга верхнего блока": "https://www.youtube.com/watch?v=Mz60YgWiI1U",
+        "Тяга гантели одной рукой в наклоне": "https://www.youtube.com/watch?v=r4-3p0KgEA8"
+      },
+    "abdominals":
+      {
+        "Подъём коленей в висе": "https://www.youtube.com/watch?v=7ciyU76b4UU",
+        "Планка": "https://www.youtube.com/watch?v=QMXncCeneZI",
+        "Скручивания": "https://www.youtube.com/watch?v=QSkX3gA8cd0"
+      }
+  },
+  "lowerBody": {
+    "Quads":
+      {
+        "Приседания со штангой": "https://www.youtube.com/watch?v=NcMEyM7qyuk",
+        "Болгарские приседания": "https://www.youtube.com/watch?v=iqepOgMjIb8",
+        "Подъём ног на тренажёре": "https://www.youtube.com/watch?v=dUmXckio8RY"
+
+      },
+    "Hamstrings":
+      {
+        "Подъём ног на тренажёре": "https://www.youtube.com/watch?v=KXYwW0v9gpM",
+        "Румынская тяга": "https://www.youtube.com/watch?v=qWb5Zr98B-M"
+
+      },
+    "Calves":
+      {
+        "Подъём на носки со штангой": "https://www.youtube.com/watch?v=czMLq4MsPiE",
+        "Тренажёр для икр": "https://www.youtube.com/watch?v=IdzC0c07iX8"
+      },
+    "Glutes":
+      {
+        "Приседания со штангой": "https://www.youtube.com/watch?v=NcMEyM7qyuk",
+        "Подъём таза со штангой": "https://www.youtube.com/watch?v=yTnWiBECvLk",
+        "Становая тяга": "https://www.youtube.com/watch?v=C6aXGfIilEE"
+
+
+      }
+  }
+}
